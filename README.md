@@ -14,15 +14,6 @@ Table of Contents
     Conclusion
     References
 
-Installation
-
-Clone the repository and install the required dependencies using pip.
-
-git clone https://github.com/dberhane21/sp500-forecasting.git
-cd sp500-forecasting
-
-pip install -r requirements.txt
-
 Data Description
 
 The dataset contains historical S&P 500 stock prices from 2006 to 2023. The data includes the following columns:
